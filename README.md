@@ -1,6 +1,6 @@
 # Taxicab Anomaly Detection
 
-This project applies statistical and machine learning techniques to detect anomalous taxi trips based on trip characteristics such as distance, duration, and fare behavior.
+This project applies statistical techniques to detect anomalous taxi trips based on trip characteristics such as distance, duration, and fare behavior.
 
 ## Overview
 Taxi trip data are explored, cleaned, and analyzed to identify unusual patterns that may indicate errors, fraud, or atypical ride behavior.
